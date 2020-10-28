@@ -1,0 +1,1 @@
+<a href="<?php echo URLROOT . 'pages/index'?>">Go To Index Page</a>
